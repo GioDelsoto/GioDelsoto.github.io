@@ -32,10 +32,56 @@ I invite you to explore some of the projects I’ve worked on, and if you’re i
   - Tools: Tableau, PowerBI, Excel, Seaborn, Matplotlib, Plotly
 
 - **Programming & Development:**
-  - Languages: Python, R, SQL
+  - Languages: Python, R, SQL, Typescript, HTML, CSS
   - Tools & Platforms: Git, Docker, Airflow, Spark/PySpark, Flask
  
 ## 📊 Data Science Projects
+
+- **[Churn Prediction for Telecom](https://github.com/GioDelsoto/NLP-projects)**: Developed a predictive model to identify at-risk customers and simulated a retention strategy (discount) to **maximize profit**.
+- **[Spark Project to predict Airfoil Noise](https://github.com/GioDelsoto/Spark-Project)**: A simple project using linear regression with **PySpark** to predict airfoil noise.
+- **[ETL project](https://github.com/GioDelsoto/ETL_and_data_analysis)**: A ETL full project using **Airflow** to extract orders data, update customers and products list to a **postgres database**. This database is used for data analysis (cohort and rebuying analyses) and machine learning models to predict repurchase.
+- **[Market Prediction Project](https://github.com/GioDelsoto/StockMarket)**: I develop this project to learn about stock market predictions and trade strategies. Althought I didn't achieve a good model to predict short terms price, I achieved a good precision score for long terms using SVM classification method. Armed with this model and a risk management strategy, the simulations shown that this is effiently.
+- **[Employee Tenure Prediction](https://github.com/GioDelsoto/Tenure-prediction)**: Forecasted employee tenure using classification techniques based on historical data. A K-means model was also used to predict the motive for employees to leave the company.   
+- **[Heart Disease Prediction](https://github.com/GioDelsoto/HeartDisease)**: Created a predictive model based on clinical data and deployed it via a simple web app using Flask, where the doctor could input patient data, and see the heart disease probability
+- **[LLM Fine Tunning: Tweets disaster](https://github.com/GioDelsoto/Disaster-tweets-classification)**: Developed a model to predict if a tweet correspond to a disaster or not, using fine-tunning with BERT.
+- **[Cool NLP Projects](https://github.com/GioDelsoto/NLP-projects)**: Worked on various NLP projects to learn new techniques, including:
+1. Transformer - nano-gpt: Applied a **transformer architecture** to create a character-based text generator. The model was trained on Shakespeare's texts.
+2. RNN Part-of-Speech Tagging: Implemented an **LSTM recurrent neural network** architecture to learn the parts of speech for each word in a text.
+3. Cipher Decrypt: Utilized a Markov transition model to discover the character mapping used in the encryption of a message. Through a **genetic algorithm**, the mapping that maximized the likelihood of the decrypted message was sought.
+4. Spam Detector: Employed **TF-IDF** and **Naive Bayes** for spam detection. Additionally, the model was compared using **Latent Semantic Analysis** for dimensionality reduction.
+5. Sentiment Analysis: Utilized logistic regression to classify the sentiment of tweets related to an airline company.
+6. TextRank Summarization: Applied the **PageRank technique** to rank key topics. This involved calculating the Markov matrix and finding eigenvectors to rank the most important sentences (highest eigenvalues).
+7. Recommendation Movie System: Used the **nearest neighbors** algorithm to recommend movies based on their descriptions.
+
+- **[Churn Prediction for Telecom](https://github.com/GioDelsoto/NLP-projects)**: Developed a predictive model to identify at-risk customers and simulated a retention strategy (discount) to **maximize profit**.
+  
+- **[Spark Project to Predict Airfoil Noise](https://github.com/GioDelsoto/Spark-Project)**: Created a project using **PySpark** and linear regression to predict airfoil noise.
+
+- **[ETL Project](https://github.com/GioDelsoto/ETL_and_data_analysis)**: Built a full **ETL pipeline** using **Airflow** to extract order data, update customer and product lists in a **PostgreSQL database**. This data is used for cohort analysis, repurchase predictions, and feeding machine learning models.
+
+- **[Market Prediction Project](https://github.com/GioDelsoto/StockMarket)**: Aimed to learn about stock market predictions and trading strategies. Although I didn't achieve a strong model for short-term price prediction, I achieved good precision for long-term predictions using an SVM classification method. With this model and a risk management strategy, simulations showed it to be efficient.
+
+- **[Employee Tenure Prediction](https://github.com/GioDelsoto/Tenure-prediction)**: Forecasted employee tenure using classification techniques based on historical data. Used **K-means clustering** to predict the reason for employees leaving the company.
+
+- **[Heart Disease Prediction](https://github.com/GioDelsoto/HeartDisease)**: Created a predictive model using clinical data and deployed it through a simple web app with **Flask**, allowing doctors to input patient data and view the probability of heart disease.
+
+- **[LLM Fine-Tuning: Tweets Disaster Classification](https://github.com/GioDelsoto/Disaster-tweets-classification)**: Developed a model to predict whether a tweet corresponds to a disaster or not, using **BERT fine-tuning**.
+
+- **[Cool NLP Projects](https://github.com/GioDelsoto/NLP-projects)**: Worked on various NLP projects to learn new techniques, including:
+  
+  1. **Transformer - nano-gpt**: Applied a **transformer architecture** to create a character-based text generator, trained on Shakespeare's texts.
+  
+  2. **RNN Part-of-Speech Tagging**: Implemented an **LSTM recurrent neural network** to predict the parts of speech for words in a text.
+  
+  3. **Cipher Decrypt**: Used a Markov transition model to discover the character mapping in an encrypted message. A **genetic algorithm** was employed to find the mapping that maximized the likelihood of the decrypted message.
+  
+  4. **Spam Detector**: Used **TF-IDF** and **Naive Bayes** for spam detection and compared with a model using **Latent Semantic Analysis** for dimensionality reduction.
+  
+  5. **Sentiment Analysis**: Applied **logistic regression** to classify the sentiment of tweets related to an airline company.
+  
+  6. **TextRank Summarization**: Implemented the **PageRank technique** to rank sentences by importance, using the Markov matrix and eigenvector calculations to determine the most significant sentences.
+  
+  7. **Movie Recommendation System**: Used the **nearest neighbors** algorithm to recommend movies based on their descriptions.
 
   
 ## 👨‍💻 Professional Experience
@@ -51,7 +97,7 @@ I invite you to explore some of the projects I’ve worked on, and if you’re i
 - Developed predictive models to qualify leads and prioritize high-value clients, using advanced analytics to inform decision-making.  
 - Provided detailed campaign analytics for ROI measurement and generated actionable financial insights, guiding future marketing strategies.  
 - Data analysis using marketing data (facebook ads, google ads, google analytics and sales data).
-- 
+
 ### Researcher - **LEPTEN, UFSC**  
 *January 2015 – August 2021*  
 - Applied numerical modeling and computational simulations to develop, control, and optimize complex systems.  
