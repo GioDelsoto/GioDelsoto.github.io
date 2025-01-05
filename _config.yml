@@ -1,5 +1,5 @@
 title: Giovanni Simões Delsoto
-logo: /images/profile.jpeg
+logo: ./images/profile.jpeg
 description: Data Scientist
 #show_downloads: true
 theme: jekyll-theme-minimal
