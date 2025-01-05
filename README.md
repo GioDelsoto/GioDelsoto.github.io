@@ -1,8 +1,14 @@
 # Giovanni Simões Delsoto - Data Scientist
 
-## 👩‍💻 About Me
+## 👋 About Me
 
+Good morning, dear reader! Allow me to introduce myself :)
 
+My name is Giovanni, and I’m a data scientist driven by curiosity and a passion for exploring the world. With a background in Mechanical Engineering and expertise in applied statistics, mathematical modeling, and system optimization, I discovered in data an incredible tool to turn ideas into real impact.
+
+Beyond data science, my love for learning spans everything from quantum mechanics to neuroscience – I enjoy understanding how things work. I’m also a violinist and singer in my spare time, as music holds a special place in my heart. When I found the world of data, I realized it was my calling. The ability to apply data science to everything I’m passionate about, from analyzing music to developing impactful projects, left me truly fascinated.
+
+I invite you to explore some of the projects I’ve worked on, and if you’re interested, feel free to reach out! I’m always on the lookout for opportunities to create meaningful impact.
 
 ## 🎓 Education
 
@@ -13,6 +19,25 @@
 - **Bachelor's in Mechanical Engineering**  
   _Universidade Federal de Santa Catarina, 2018_
 
+## 🛠️ Technical Skills
+
+- **Machine Learning & Data Science:**
+  - Techniques: Regression, Classification, Clustering, NLP, Neural Networks (ANN, RNN, CNN), LLMs
+  - Libraries/Frameworks: TensorFlow, PyTorch, Scikit-learn, XGBoost
+
+- **Databases:**
+  - MongoDB, MySQL, PostgreSQL
+
+- **Data Visualization & Analytics:**
+  - Tools: Tableau, PowerBI, Excel, Seaborn, Matplotlib, Plotly
+
+- **Programming & Development:**
+  - Languages: Python, R, SQL
+  - Tools & Platforms: Git, Docker, Airflow, Spark/PySpark, Flask
+ 
+## 📊 Data Science Projects
+
+  
 ## 👨‍💻 Professional Experience
 
 ### Automatitions using LLM - **TNP**  
