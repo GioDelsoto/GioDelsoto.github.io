@@ -34,7 +34,7 @@ I invite you to explore some of the projects I’ve worked on, and if you’re i
 - **Programming & Development:**
   - Languages: Python, R, SQL, Typescript, HTML, CSS
   - Tools & Platforms: Git, Docker, Airflow, Spark/PySpark, Flask
- 
+
 ## 📊 Data Science Projects
 
 - **[Churn Prediction for Telecom](https://github.com/GioDelsoto/NLP-projects)**: Developed a predictive model to identify at-risk customers and simulated a retention strategy (discount) to **maximize profit**.
@@ -50,6 +50,12 @@ I invite you to explore some of the projects I’ve worked on, and if you’re i
 - **[Heart Disease Prediction](https://github.com/GioDelsoto/HeartDisease)**: Created a predictive model using clinical data and deployed it through a simple web app with **Flask**, allowing doctors to input patient data and view the probability of heart disease.
 
 - **[LLM Fine-Tuning: Tweets Disaster Classification](https://github.com/GioDelsoto/Disaster-tweets-classification)**: Developed a model to predict whether a tweet corresponds to a disaster or not, using **BERT fine-tuning**.
+
+- **[Power BI Dashboards](#)**: Designed interactive **Power BI reports** for various business areas using fictional data:
+  - **[Sales Report](https://app.powerbi.com/view?r=eyJrIjoiZWQzYzMyYjgtN2ZmYi00M2M3LTg4ZGItOTI5MjI3ZDM5YWNhIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9&pageName=6f8d2c1fd7cd5e673d2d)**: Analyzes **total monthly sales, revenue by brand, sales by region, and best-selling products.**.
+  - **[Production & Quality Report](https://app.powerbi.com/view?r=eyJrIjoiNTI1YTM1YWEtMWFiNy00YzVmLWI1YjctYjY3YWRmNGZhYTllIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9)**: Tracks **production efficiency and quality**, including **productive time and downtime**.
+  - **[Human Resources Report](https://app.powerbi.com/view?r=eyJrIjoiMmE1YjhjZmMtM2UxZC00ODJjLTgxMzMtY2NkYWFiYjM5ODYzIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9&pageName=23273e6687d8ae7843d6)**: Tracks employee data such as **tenure, overtime hours, and performance evaluations**.
+  - **[Financial Report](https://app.powerbi.com/view?r=eyJrIjoiYTgzZTgzNDYtMGJlZC00ODAwLTkyODEtMDBhNDc3NmJhYmEyIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9)**: Provides insights into **financial transactions**, including **amounts, payment methods, and profit over time**.
 
 - **[Cool NLP Projects](https://github.com/GioDelsoto/NLP-projects)**: Worked on various NLP projects to learn new techniques, including:
   
