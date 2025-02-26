@@ -37,7 +37,7 @@ I invite you to explore some of the projects I’ve worked on, and if you’re i
 
 ## 📊 Data Science Projects
 
-- **[Churn Prediction for Telecom](https://github.com/GioDelsoto/NLP-projects)**: Developed a predictive model to identify at-risk customers and simulated a retention strategy (discount) to **maximize profit**.
+- **[Churn Prediction for Telecom](https://github.com/GioDelsoto/TelecomChurn)**: Developed a predictive model to identify at-risk customers and simulated a retention strategy (discount) to **maximize profit**.
   
 - **[Spark Project to Predict Airfoil Noise](https://github.com/GioDelsoto/Spark-Project)**: Created a project using **PySpark** and linear regression to predict airfoil noise.
 
