@@ -35,43 +35,54 @@ I invite you to explore some of the projects I’ve worked on, and if you’re i
   - Languages: Python, R, SQL, Typescript, HTML, CSS
   - Tools & Platforms: Git, Docker, Airflow, Spark/PySpark, Flask
 
-## 📊 Data Science Projects
+---
+## 📊 Projects
 
-- **[Churn Prediction for Telecom](https://github.com/GioDelsoto/TelecomChurn)**: Developed a predictive model to identify at-risk customers and simulated a retention strategy (discount) to **maximize profit**.
-  
-- **[Spark Project to Predict Airfoil Noise](https://github.com/GioDelsoto/Spark-Project)**: Created a project using **PySpark** and linear regression to predict airfoil noise.
+---
 
-- **[ETL Project](https://github.com/GioDelsoto/ETL_and_data_analysis)**: Built a full **ETL pipeline** using **Airflow** to extract order data, update customer and product lists in a **PostgreSQL database**. This data is used for cohort analysis, repurchase predictions, and feeding machine learning models.
+### Machine Learning & Predictive Modeling
 
-- **[Market Prediction Project](https://github.com/GioDelsoto/StockMarket)**: Aimed to learn about stock market predictions and trading strategies. Although I didn't achieve a strong model for short-term price prediction, I achieved good precision for long-term predictions using an SVM classification method. With this model and a risk management strategy, simulations showed it to be efficient.
+- **[Churn Prediction for Telecom](https://github.com/GioDelsoto/TelecomChurn)**  
+  Built a classification model to identify customers likely to churn. Simulated a discount-based retention strategy to **maximize profitability** using model predictions.
 
-- **[Employee Tenure Prediction](https://github.com/GioDelsoto/Tenure-prediction)**: Forecasted employee tenure using classification techniques based on historical data. Used **K-means clustering** to predict the reason for employees leaving the company.
+- **[Wine Quality Profit Classifier](https://github.com/GioDelsoto/wine-quality-profit-prediction)**  
+  Created a classifier to identify high-quality wines based on physicochemical attributes. Focused on **profit maximization** by recommending wines for buying/reselling.
 
-- **[Heart Disease Prediction](https://github.com/GioDelsoto/HeartDisease)**: Created a predictive model using clinical data and deployed it through a simple web app with **Flask**, allowing doctors to input patient data and view the probability of heart disease.
+- **[Employee Tenure Prediction](https://github.com/GioDelsoto/Tenure-prediction)**  
+  Predicted employee retention using supervised learning techniques. Used **K-means clustering** to analyze patterns behind resignations and group similar behaviors.
 
-- **[LLM Fine-Tuning: Tweets Disaster Classification](https://github.com/GioDelsoto/Disaster-tweets-classification)**: Developed a model to predict whether a tweet corresponds to a disaster or not, using **BERT fine-tuning**.
+- **[Heart Disease Prediction App](https://github.com/GioDelsoto/HeartDisease)**  
+  Built a predictive model for heart disease risk using clinical data. Deployed a web application using **Flask** to allow real-time predictions for healthcare professionals.
 
-- **[Power BI Dashboards](#)**: Designed interactive **Power BI reports** for various business areas using fictional data:
-  - **[Sales Report](https://app.powerbi.com/view?r=eyJrIjoiZWQzYzMyYjgtN2ZmYi00M2M3LTg4ZGItOTI5MjI3ZDM5YWNhIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9&pageName=6f8d2c1fd7cd5e673d2d)**: Analyzes **total monthly sales, revenue by brand, sales by region, and best-selling products.**.
-  - **[Production & Quality Report](https://app.powerbi.com/view?r=eyJrIjoiNTI1YTM1YWEtMWFiNy00YzVmLWI1YjctYjY3YWRmNGZhYTllIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9)**: Tracks **production efficiency and quality**, including **productive time and downtime**.
-  - **[Human Resources Report](https://app.powerbi.com/view?r=eyJrIjoiMmE1YjhjZmMtM2UxZC00ODJjLTgxMzMtY2NkYWFiYjM5ODYzIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9&pageName=23273e6687d8ae7843d6)**: Tracks employee data such as **tenure, overtime hours, and performance evaluations**.
-  - **[Financial Report](https://app.powerbi.com/view?r=eyJrIjoiYTgzZTgzNDYtMGJlZC00ODAwLTkyODEtMDBhNDc3NmJhYmEyIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9)**: Provides insights into **financial transactions**, including **amounts, payment methods, and profit over time**.
+- **[Stock Market Prediction](https://github.com/GioDelsoto/StockMarket)**  
+  Developed a stock classification model using **SVM** to distinguish between upward and downward trends. Long-term predictions showed promising precision in backtesting with a simple trading strategy.
 
-- **[Cool NLP Projects](https://github.com/GioDelsoto/NLP-projects)**: Worked on various NLP projects to learn new techniques, including:
+---
+
+### Data Visualization & Business Intelligence
+
+- **[Power BI Dashboards](#)**  
+  Created a suite of interactive dashboards using fictional datasets to simulate real business scenarios:
   
-  1. **Transformer - nano-gpt**: Applied a **transformer architecture** to create a character-based text generator, trained on Shakespeare's texts.
-  
-  2. **RNN Part-of-Speech Tagging**: Implemented an **LSTM recurrent neural network** to predict the parts of speech for words in a text.
-  
-  3. **Cipher Decrypt**: Used a Markov transition model to discover the character mapping in an encrypted message. A **genetic algorithm** was employed to find the mapping that maximized the likelihood of the decrypted message.
-  
-  4. **Spam Detector**: Used **TF-IDF** and **Naive Bayes** for spam detection and compared with a model using **Latent Semantic Analysis** for dimensionality reduction.
-  
-  5. **Sentiment Analysis**: Applied **logistic regression** to classify the sentiment of tweets related to an airline company.
-  
-  6. **TextRank Summarization**: Implemented the **PageRank technique** to rank sentences by importance, using the Markov matrix and eigenvector calculations to determine the most significant sentences.
-  
-  7. **Movie Recommendation System**: Used the **nearest neighbors** algorithm to recommend movies based on their descriptions.
+  - [**Sales Report**](https://app.powerbi.com/view?r=eyJrIjoiZWQzYzMyYjgtN2ZmYi00M2M3LTg4ZGItOTI5MjI3ZDM5YWNhIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9&pageName=6f8d2c1fd7cd5e673d2d) — Sales trends by region, brand performance, and best-selling products.  
+  - [**Production & Quality Report**](https://app.powerbi.com/view?r=eyJrIjoiNTI1YTM1YWEtMWFiNy00YzVmLWI1YjctYjY3YWRmNGZhYTllIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9) — Analyzes productive time, downtime, and production efficiency.  
+  - [**HR Report**](https://app.powerbi.com/view?r=eyJrIjoiMmE1YjhjZmMtM2UxZC00ODJjLTgxMzMtY2NkYWFiYjM5ODYzIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9&pageName=23273e6687d8ae7843d6) — Monitors tenure, overtime, and employee performance metrics.  
+  - [**Financial Report**](https://app.powerbi.com/view?r=eyJrIjoiYTgzZTgzNDYtMGJlZC00ODAwLTkyODEtMDBhNDc3NmJhYmEyIiwidCI6ImZiNDBkZjFjLTgwYTAtNDc1NC04Y2YzLTI1NzgyMDg4MjQzYSJ9) — Tracks financial performance, profit margins, and payment methods.
+
+---
+
+### Data Exploration & Analysis
+
+- **[Exploratory Bike Sales Analysis](https://github.com/GioDelsoto/Bike-sales-analysis)**  
+  Conducted in-depth exploratory data analysis to generate insights into customer demographics and sales trends, assisting in strategic decision-making.
+
+---
+
+### ETL & Data Pipelines
+
+- **[ETL Project with Airflow](https://github.com/GioDelsoto/ETL_and_data_analysis)**  
+  Designed a full ETL pipeline using **Apache Airflow** to extract, transform, and load customer and order data into a **Postgre**
+
 
   
 ## 👨‍💻 Professional Experience
